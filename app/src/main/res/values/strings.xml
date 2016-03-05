@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GcmSample</string>
+    <string name="gcm_sender_id">dfkadfkasldfak</string>
+</resources>
